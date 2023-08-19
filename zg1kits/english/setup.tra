@@ -1,12 +1,16 @@
-@100 = ~Arcane Archer/Necromancer~
-@101 = ~ARCANE ARCHER/NECROMANCER: This character can use the abilities of an Arcane Archer and a Necromancer, though they cannot cast spells while wearing armor.
+@100 = ~Arcane Archer / Necromancer~
+@101 = ~ARCANE ARCHER / NECROMANCER: This character can use the abilities of an Arcane Archer and a Necromancer, though they cannot cast spells while wearing armor.
 
 ARCANE ARCHER: Master of the elven warbands, the arcane archer is a warrior skilled in using magic to supplement their combat prowess. Beyond the woods, arcane archers gain renown throughout entire kingdoms for their supernatural accuracy with a bow and their ability to imbue their arrows with magic. In a group, they can strike fear into an entire enemy army.
 
-Advantages:
+NECROMANCER: A Mage who specializes in magic dealing with death.
 
+Advantages:
 - May achieve grandmastery in longbows, shortbows or crossbows.
 - +1 to hit with any missile weapon at level 1 and every 5 levels thereafter.
+- Receives a +15% bonus when scribing scrolls from the Necromancy school.
+- Receives a +2 bonus when making Saving Throws against spells from the Necromancy school.
+- Targets suffer a -2 penalty when making Saving Throws against spells from the Necromancy school.
 - Gains the Enhance Arrow ability.
 
 ENHANCE ARROW: The arcane archer passively imbues <PRO_HISHER> arrows with magic. Projectiles launched by the arcane archer are always treated as weapons of +1 enchantment and deal one extra point of magic damage, increasing by one for every five levels gained to a maximum of +5 enchantment and five magic damage at 20th level. Additional damage is affected by the target's magic resistance.
@@ -34,6 +38,8 @@ ARROW OF DEATH: A master arcane archer can enchant <PRO_HISHER> next arrow withi
 Disadvantages:
 - THAC0 penalty of 2 when wielding a melee weapon.
 - Race restricted to elf or half-elf.
+- May not learn or cast any spells of the Illusion school.
+- Receives a -15% penalty when scribing scrolls from other schools.
 - May not exceed proficiency (one slot) in weapons other than longbows and shortbows.
 - May not exceed proficiency (one slot) in any weapon style.
 - May not wear armor heavier than elven chain mail.~
