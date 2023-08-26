@@ -43,3 +43,28 @@ Disadvantages:
 - May not exceed proficiency (one slot) in weapons other than longbows and shortbows.
 - May not exceed proficiency (one slot) in any weapon style.
 - May not wear armor heavier than elven chain mail.~
+
+@102 = ~Fighter / Assassin~
+@103 = ~FIGHTER / ASSASSIN: This character can use the abilities of a Fighter and an Assassin combined.
+
+FIGHTER: The Fighter is a champion, swords<PRO_MANWOMAN>, soldier, and brawler who lives or dies by <PRO_HISHER> knowledge of weapons and tactics. Fighters can be found at the front of any battle, contesting toe-to-toe with monsters and villains. A good Fighter needs to be strong and healthy if <PRO_HESHE> hopes to survive.
+
+ASSASSIN: This is a killer trained in discreet and efficient murder, relying on anonymity and surprise to perform <PRO_HISHER> task.
+
+Advantages:
+– +1 bonus to hit and damage rolls.
+– Backstab ability reaches x7 multiplier instead of capping at x5.
+  Level 17-20: x6
+  Level 21-40: x7
+– May use the Poison Weapon ability. Gains one use at level 1 and an additional use every 4 levels thereafter.
+
+Poison Weapon
+Each successful hit within the next 5 rounds will inject poison into the target. Each target can only be affected once per round. The amount of poison damage depends on the character's level:
+
+1st - Target suffers 1 poison damage per second for 6 seconds (Save vs. Death at +1 negates)
+5th - Target suffers 1 poison damage per second for 12 seconds (Save vs. Death negates), and also immediately suffers 2 poison damage (no save)
+9th - Target suffers 1 poison damage per second for 18 seconds (Save vs. Death at -1 negates), and also immediately suffers 4 poison damage (no save)
+13th - Target suffers 1 poison damage per second for 24 seconds (Save vs. Death at -2 negates), and also immediately suffers 6 poison damage (no save)
+
+Disadvantages:
+– May only distribute 15 skill points per level among thieving skills.~
